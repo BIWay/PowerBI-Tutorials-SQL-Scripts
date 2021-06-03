@@ -1,1 +1,1 @@
-# PowerBI-Tutorials-delete.sql
+# PowerBI-Tutorials/SQL-Scripts
